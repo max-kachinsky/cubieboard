@@ -1,5 +1,5 @@
 # Cubieboard
-This repository collect info and userfull info about CubieBoard a10.
+Данный репозиторий создан дя коллекции информации и полезных файлов.
 
 #Cubieboard a10 info
 Cubieboard — это материнская плата, продающаяся в качестве одноплатного компьютера, производится в Шэньчжэнь, провинции Гуандун, Китай. Первый прототип платы начал продаваться на международном уровне в сентябре 2012 года, а серийную версию начали продавать в октябре того же года. Плата может работать на Android 4 ICS, Ubuntu 12.04 desktop, Fedora 19 ARM Remix desktop, XBMC media player system, Archlinux ARM, OpenBSD/armv7 или basic Debian server через Cubian дистрибутив. 
